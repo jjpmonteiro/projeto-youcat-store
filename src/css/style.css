@@ -67,7 +67,7 @@
 }
 
 #hero {
-    background-image: url("/src/img/models/hero4.png");
+    background-image: url("src/img/models/hero4.png");
     height: 90vh;
     width: 100%;
     background-size: cover;
@@ -88,7 +88,7 @@
 }
 
 #hero button {
-    background-image: url("/src/img/button.png");
+    background-image: url("src/img/button.png");
     background-color: transparent;
     color: #D0A86D;
     border: 0;
