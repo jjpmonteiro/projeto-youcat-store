@@ -271,7 +271,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: flex-start;
-    background-image: url(../img/banner/b17.jpg);
+    background-image: url(../img/models/t-shirts-banner.jpg);
     min-width: 850px;
     height: 50vh;
     background-size: cover;
@@ -280,7 +280,7 @@
 }
 
 #sm-banner .banner-box2 {
-    background-image: url(../img/banner/b10.jpg);
+    background-image: url(../img/models/cap-banner.jpg);
 }
 
 #sm-banner h4 {
@@ -319,7 +319,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: flex-start;
-    background-image: url(../img/banner/b16.jpg);
+    background-image: url(../img/models/hoodie2-banner.jpg);
     min-width: 550px;
     height: 30vh;
     background-size: cover;
@@ -328,13 +328,13 @@
     margin-bottom: 20px;
 }
 
-/* #banner3 .banner-box2 {
-    background-image: ;
+#banner3 .banner-box2 {
+    background-image: url(../img/models/bucket-banner.jpg);
 }
 
 #banner3 .banner-box3 {
-    background-image: ;
-} */
+    background-image: url(../img/models/model2-banner.jpg);
+}
 
 #banner3 h2 {
     color: #fff;
