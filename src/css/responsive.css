@@ -241,4 +241,18 @@
         width: 100%;
         margin-bottom: 30px;
     }
+
+    /* Cart Page */
+    #cart-add {
+        flex-direction: column;
+    }
+
+    #cart-add .cupom {
+        width: 100%;
+    }
+
+    #cart-add .subtotal {
+        width: 100%;
+        padding: 20px;
+    }
 }
