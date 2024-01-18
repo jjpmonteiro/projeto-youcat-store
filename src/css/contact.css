@@ -57,9 +57,9 @@
 
 #form-details {
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     margin: 30px;
-    padding: 80px;
+    padding: 50px;
     border: 1px solid #e1e1e1;
 }
 
@@ -81,30 +81,4 @@
 #form-details form button {
     background-color: #D0A86D;
     color: #fff;
-}
-
-#form-details .people div {
-    padding-bottom: 25px;
-    display: flex;
-    align-items: flex-start;
-}
-
-#form-details .people div img {
-    width: 65px;
-    height: 65px;
-    object-fit: cover;
-    margin-right: 15px;
-}
-
-#form-details .people div p {
-    margin: 0;
-    font-size: 13px;
-    line-height: 25px;
-}
-
-#form-details .people div p span {
-    display: block;
-    font-size: 16px;
-    font-weight: 600;
-    color: #000;
 }
