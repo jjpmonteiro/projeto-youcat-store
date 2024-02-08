@@ -38,11 +38,15 @@
 .pro-details {
     display: flex;
     margin-top: 20px;
+    justify-content: center;
 }
 
 .pro-details .single-pro-image {
-    width: 40%;
-    margin-right: 50px;
+    width: 33%;
+    margin-right: 100px;
+    border: 1px solid #00000013;
+    border-radius: 4px;
+    padding: 15px;
 }
 
 .small-img-group {
@@ -58,7 +62,7 @@
 }
 
 .pro-details .single-pro-details {
-    width: 50%;
+    width: 45%;
     padding-top: 30px;
 }
 
