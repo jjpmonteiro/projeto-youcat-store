@@ -1,93 +1,93 @@
-#page-header.cart-header {
+.page-header.cart-header {
     background-image: url(../img/banner/cart.jpg);
     background-position: 0 80%;
 }
 
-#cart {
+.cart {
     overflow-x: auto;
 }
 
-#cart table {
+.cart table {
     width: 100%;
     border-collapse: collapse;
     table-layout: fixed;
     white-space: nowrap;
 }
 
-#cart table img {
+.cart table img {
     width: 70px;
 }
 
-#cart table td:nth-child(1) {
+.cart table td:nth-child(1) {
     width: 100px;
     text-align: center;
 }
 
-#cart table td:nth-child(2) {
+.cart table td:nth-child(2) {
     width: 150px;
     text-align: center;
 }
 
-#cart table td:nth-child(3) {
+.cart table td:nth-child(3) {
     width: 250px;
     text-align: center;
 }
 
-#cart table td:nth-child(4),
-#cart table td:nth-child(5),
-#cart table td:nth-child(6) {
+.cart table td:nth-child(4),
+.cart table td:nth-child(5),
+.cart table td:nth-child(6) {
     width: 150px;
     text-align: center;
 }
 
-#cart table td:nth-child(5) input {
+.cart table td:nth-child(5) input {
     width: 70px;
     padding: 10px 5px 10px 15px;
 }
 
 
-#cart table thead {
+.cart table thead {
     border: 1px solid #E3E6F3;
     border-left: none;
     border-right: none;
 }
 
-#cart table thead td {
+.cart table thead td {
     font-weight: 700;
     text-transform: uppercase;
     font-size: 13px;
     padding: 18px 0;
 }
 
-#cart table tbody tr td {
+.cart table tbody tr td {
     padding-top: 15px;
 }
 
-#cart table tbody tr td i {
+.cart table tbody tr td i {
     color: #ef3636;
 }
 
-#cart table tbody td {
+.cart table tbody td {
     font-size: 13px;
 }
 
-#cart-add {
+.cart-add {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
 }
 
-#cart-add .cupom {
+.cart-add .cupom {
     width: 50%;
     margin-bottom: 30px;
 }
 
-#cart-add .cupom h3,
-#cart-add .subtotal h3 {
+.cart-add .cupom h3,
+.cart-add .subtotal h3 {
     padding-bottom: 15px;
 }
 
-#cart-add .cupom input {
+.cart-add .cupom input {
     padding: 10px 20px;
     outline: none;
     width: 60%;
@@ -95,27 +95,27 @@
     border: 1px solid #E3E6F3;
 }
 
-#cart-add .cupom button,
-#cart-add .subtotal button {
+.cart-add .cupom button,
+.cart-add .subtotal button {
     background-color: #D0A86D;
     color: #fff;
     padding: 12px 20px;
 }
 
-#cart-add .subtotal {
+.cart-add .subtotal {
     width: 50%;
     margin-bottom: 30px;
     border: 1px solid #E3E6F3;
     padding: 30px;
 }
 
-#cart-add .subtotal table {
+.cart-add .subtotal table {
     border-collapse: collapse;
     width: 100%;
     margin-bottom: 20px;
 }
 
-#cart-add .subtotal table td {
+.cart-add .subtotal table td {
     width: 50%;
     border: 1px solid #E3E6F3;
     padding: 10px;

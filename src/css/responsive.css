@@ -27,12 +27,12 @@
         margin-bottom: 25px;
     }
 
-    #mobile {
+    .mobile {
         display: flex;
         align-items: center;
     }
 
-    #mobile i {
+    .mobile i {
         color: #1a1a1a;
         font-size: 24px;
         padding-left: 20px;
@@ -51,48 +51,48 @@
         display: none;
     }
     
-    #hero {
+    .hero {
         height: 70vh;
         padding: 0 80px;
         background-position: top 30% right 40%;
     }
 
-    #feature {
+    .feature {
         justify-content: center;
     }
 
-    #feature .fe-box {
+    .feature .fe-box {
         margin: 15px;
     }
 
-    #product1 .pro-container {
+    .product1 .pro-container {
         justify-content: center;
     }
 
-    #product1 .produto {
+    .product1 .produto {
         margin: 15px;
     }
 
-    #banner {
+    .banner {
         height: 20vh;
     }
 
-    #sm-banner .banner-box {  
+    .sm-banner .banner-box {  
         min-width: 100%;
         height: 30vh;
         margin-bottom: 10px;
     }
 
-    #newsletter .form {
+    .newsletter .form {
         width: 70%;
     }
 
     /* Contact Page */
-    #form-details {
+    .form-details {
         padding: 40px;
     }
 
-    #form-details form {
+    .form-details form {
         width: 50%;
     }
 }
@@ -102,7 +102,7 @@
         padding: 20px;
     }
 
-    #header {
+    .header {
         padding: 10px 30px;
     }
     h1 {
@@ -113,49 +113,49 @@
         font-size: 32px;
     }
 
-    #hero {
+    .hero {
         padding: 0 20px;
         background-position: 55%;
     }
 
-    #feature {
+    .feature {
         justify-content: space-between;
     }
 
-    #feature .fe-box {
+    .feature .fe-box {
         width: 155px;
         margin: 0 0 15px 0;
     }
 
-    #product1 .produto {
+    .product1 .produto {
         width: 100%;
     }
 
-    #banner {
+    .banner {
         height: 40vh;
     }
 
-    #sm-banner .banner-box {
+    .sm-banner .banner-box {
         height: 40vh;
     }
 
-    #sm-banner .banner-box2 {
+    .sm-banner .banner-box2 {
         margin-top: 20px;
     }
 
-    #banner3 {
+    .banner3 {
         padding: 0 20px;
     }
 
-    #banner3 .banner-box {
+    .banner3 .banner-box {
         width: 100%;
     }
 
-    #newsletter {
+    .newsletter {
         padding: 40px 20px;
     }
 
-    #newsletter .form {
+    .newsletter .form {
         width: 100%;
     }
 
@@ -164,94 +164,94 @@
     }
 
     /* Single Product */
-    #pro-details {
+    .pro-details {
         display: flex;
         flex-direction: column;
     }
 
-    #pro-details .single-pro-image {
+    .pro-details .single-pro-image {
         width: 100%;
         margin-right: 0;
     }
 
-    #pro-details .single-pro-details {
+    .pro-details .single-pro-details {
         width: 100%
     }
 
     /* Blog Page */
-    #blog {
+    .blog {
         padding: 100px 20px 0 20px;
     }
 
-    #blog .blog-box {
+    .blog .blog-box {
         display: flex;
         flex-direction: column;
         align-items: flex-start;
     }
 
-    #blog .blog-img {
+    .blog .blog-img {
         width: 100%;
         margin-right: 0;
         margin-bottom: 30px;
     }
 
-    #blog .blog-details {
+    .blog .blog-details {
         width: 100%;
     }
 
     /* About Page */
-    #about-head {
+    .about-head {
         flex-direction: column;
     }
 
-    #about-head img {
+    .about-head img {
         width: 100%;
         margin-bottom: 20px;
     }
 
-    #about-head .about-text {
+    .about-head .about-text {
         padding-left: 0;
     }
 
-    #about-app .video {
+    .about-app .video {
         width: 100%;
     }
 
     /* Contact Page */
-    #contact-details {
+    .contact-details {
         flex-direction: column;
     }
 
-    #contact-details .details {
+    .contact-details .details {
         width: 100%;
         margin-bottom: 30px;
     }
 
-    #contact-details .map {
+    .contact-details .map {
         width: 100%;
     }
 
-    #form-details {
+    .form-details {
         margin: 10px;
         padding: 30px 10px;
         flex-wrap: wrap;
     }
 
-    #form-details form {
+    .form-details form {
         width: 100%;
         margin-bottom: 30px;
     }
 
     /* Cart Page */
-    #cart-add {
+    .cart-add {
         flex-direction: column;
     }
 
-    #cart-add .cupom {
+    .cart-add .cupom {
         width: 100%;
     }
 
-    #cart-add .subtotal {
+    .cart-add .subtotal {
         width: 100%;
         padding: 20px;
     }
