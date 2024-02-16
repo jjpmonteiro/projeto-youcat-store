@@ -92,7 +92,7 @@
     padding-bottom: 15px;
 }
 
-.hero h1 {
+.hero h2 {
     color: #D0A86D;
 }
 
@@ -290,12 +290,14 @@
     color: #fff;
     font-size: 20px;
     font-weight: 300;
+    text-shadow: 1px 1px 2px #000;
 }
 
 .sm-banner h2 {
     color: #fff;
     font-size: 28px;
     font-weight: 800;
+    text-shadow: 1px 1px 2px #000;
 }
 
 .sm-banner span {
@@ -303,6 +305,7 @@
     font-size: 14px;
     font-weight: 500;
     padding-bottom: 15px;
+    text-shadow: 1px 1px 2px #000;
 }
 
 .sm-banner .banner-box:hover button {
@@ -343,12 +346,14 @@
     color: #fff;
     font-weight: 900;
     font-size: 22px;
+    text-shadow: 1px 1px 2px #000;
 }
 
 .banner3 h3 {
     color: #ef3636;
     font-weight: 800;
     font-size: 15px;
+    text-shadow: 1px 1px 2px #555;
 }
 
 .newsletter {

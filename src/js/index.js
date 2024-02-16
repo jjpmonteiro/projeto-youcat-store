@@ -13,3 +13,25 @@ if (close) {
         nav.classList.remove('active');
     })
 }
+
+ScrollReveal({
+    distance: "80px",
+    duration: 2000,
+    delay: 200
+});
+
+ScrollReveal().reveal(".hero, .page-header, .feature", {
+    origin: "top"
+});
+
+ScrollReveal().reveal(".sm-banner, .details", {
+    origin: "left"
+});
+
+ScrollReveal().reveal(".banner3, .map", {
+    origin: "right"
+});
+
+ScrollReveal().reveal(".product1, .blog-box, .about-head, .about-app, .form-details, .cart, .cart-add", {
+    origin: "bottom"
+});
